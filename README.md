@@ -1,4 +1,5 @@
-# The Formation and Diversity of Modern Academic Norms during the Japanese Colonial Period (FD_of_MAN)  *A Quantitative Analysis of the Formal Aspects of Articles in Jindanhakbo*
+# The Formation and Diversity of Modern Academic Norms during the Japanese Colonial Period (FD_of_MAN) \br
+  *A Quantitative Analysis of the Formal Aspects of Articles in Jindanhakbo* \br \br
 
 ## 소개
 2000년에서 2019년까지 출간된 국어국문학과 박사 학위논문(현대문학) 1,528편의 서지정보를 수집하고 분석해  
