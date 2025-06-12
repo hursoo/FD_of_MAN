@@ -80,9 +80,5 @@ Jupyter lab 코드(ipynb)를 다운받아 로컬에서 활용하면 됩니다.
 
 ### 3. 참고: 패키지 목록 파일 (environment.yml)
 
-이 저장소에는 `environment.yml` 파일이 포함되어 있습니다. 이 파일을 사용하면 위 2, 4번 단계를 한 번에 실행할 수 있어 더욱 편리합니다.
-
-**`environment.yml` 파일 생성하기 (본인만 실행)**
-현재 `py-project` 환경이 활성화된 상태에서 아래 명령어를 실행하면, 설치된 모든 패키지 정보가 담긴 `environment.yml` 파일이 생성됩니다. 이 파일을 GitHub에 함께 업로드하세요.
-```bash
-conda env export > environment.yml
+- 이곳에는 `environment.yml` 파일이 포함되어 있습니다. 
+- 이 파일을 사용하면 위 2, 4번 단계를 한 번에 실행할 수 있어 더욱 편리합니다.
